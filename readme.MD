@@ -3,3 +3,4 @@
 mongodb
 mysql
 redis
+rabbitmq
