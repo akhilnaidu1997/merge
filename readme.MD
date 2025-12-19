@@ -2,3 +2,4 @@
 
 mongodb
 mysql
+redis
