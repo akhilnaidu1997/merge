@@ -21,3 +21,4 @@ rabbitmq
 mongodb
 redis
 user
+* shipping
