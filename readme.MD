@@ -13,3 +13,4 @@ rabbitmq
 * payment
 
 ##frontend
+* nginx
