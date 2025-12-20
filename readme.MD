@@ -15,3 +15,4 @@ rabbitmq
 ##frontend
 * nginx
 * Frontend-ALB
+* Route53
