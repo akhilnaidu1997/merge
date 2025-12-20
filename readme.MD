@@ -17,8 +17,10 @@ rabbitmq
 * Frontend-ALB
 * Route53
 
-## suresh
+
 mongodb
-catalogue
-* user
-* cart
+redis
+user
+* shipping
+* payment
+
