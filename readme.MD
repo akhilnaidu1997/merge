@@ -11,3 +11,5 @@ rabbitmq
 * cart
 * Shipping
 * payment
+
+##frontend
