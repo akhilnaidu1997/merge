@@ -9,3 +9,4 @@ rabbitmq
 * catalogue
 * user
 * cart
+* Shipping
