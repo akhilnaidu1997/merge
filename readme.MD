@@ -14,3 +14,4 @@ rabbitmq
 
 ##frontend
 * nginx
+* Frontend-ALB
