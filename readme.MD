@@ -11,3 +11,8 @@ rabbitmq
 * cart
 * Shipping
 * payment
+
+##frontend
+* nginx
+* Frontend-ALB
+* Route53
