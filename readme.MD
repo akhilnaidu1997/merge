@@ -8,3 +8,4 @@ rabbitmq
 ##rebase branch
 * catalogue
 * user
+* cart
