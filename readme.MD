@@ -21,3 +21,4 @@ rabbitmq
 mongodb
 catalogue
 * user
+* cart
