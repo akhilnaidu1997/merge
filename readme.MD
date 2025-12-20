@@ -16,3 +16,9 @@ rabbitmq
 * nginx
 * Frontend-ALB
 * Route53
+
+## suresh
+mongodb
+catalogue
+* user
+* cart
