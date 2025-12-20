@@ -6,3 +6,4 @@ redis
 rabbitmq
 
 ##rebase branch
+* catalogue
