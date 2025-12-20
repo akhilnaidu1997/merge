@@ -22,3 +22,4 @@ mongodb
 redis
 user
 * shipping
+* payment
