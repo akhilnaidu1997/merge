@@ -10,3 +10,4 @@ rabbitmq
 * user
 * cart
 * Shipping
+* payment
