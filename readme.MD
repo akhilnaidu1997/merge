@@ -7,3 +7,4 @@ rabbitmq
 
 ##rebase branch
 * catalogue
+* user
