@@ -26,6 +26,5 @@ user
 
 # karam dosa
 * masala dosa
-* egg dosa
 * podi dosa
 
