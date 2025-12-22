@@ -25,6 +25,3 @@ user
 * payment
 
 # karam dosa
-* masala dosa
-* podi dosa
-
